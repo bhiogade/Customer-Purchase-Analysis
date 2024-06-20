@@ -20,5 +20,6 @@ This repository contains a comprehensive dashboard that visualizes customer purc
 ### Prerequisites
 
 •⁠  ⁠Tableau visualization tool
+
 •⁠  ⁠Dataset containing customer purchase information
 
