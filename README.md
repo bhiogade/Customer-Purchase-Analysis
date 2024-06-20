@@ -15,3 +15,10 @@ This repository contains a comprehensive dashboard that visualizes customer purc
 •⁠  ⁠*Age-Wise Sales *: Bar chart illustrating sales distribution across different age groups.
 •⁠  ⁠*Quantity-Discount Correlation*: Scatter plot showing the relationship between the discount percentage and the quantity of products sold.
 
+## Usage
+
+### Prerequisites
+
+•⁠  ⁠Tableau visualization tool
+•⁠  ⁠Dataset containing customer purchase information
+
