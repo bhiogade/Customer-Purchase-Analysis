@@ -1,4 +1,4 @@
-# Customer Purchase Analysis Dashboard
+# Comprehensive Customer Purchase Analysis Across Multiple Dimensions- Dashboard
 
 ## Overview
 
